@@ -8,7 +8,7 @@
   "build": "vite build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
-}
+},
   "dependencies": {
     "@radix-ui/react-tooltip": "^1.1.4",
     "@tanstack/react-query": "^5.56.2",
